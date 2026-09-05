@@ -2,7 +2,7 @@
 # AIM: 
 SHORT CIRCUIT ANALYSIS BY LINE TO GROUND FAULT 
 To calculate the unsymmetrical short circuit parameters for the given power system by 
-using ETAP software. 
+using ETAP software.  
 # THEORY: 
 When an abnormal condition arises in a power system such as fault, an insulation flashover or 
 lightning stroke to the transmission tower, high current flows in the power system. These currents are 
